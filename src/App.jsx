@@ -47,7 +47,7 @@ function App() {
               />
               <span className="d-none d-lg-inline ms-2 fw-bold">ARL</span>
             </a>
-            <ToggleTheme />
+            {/* <ToggleTheme /> */}
             <div className="collapse navbar-collapse" id="navbarToggler">
               <Navigation />
             </div>
